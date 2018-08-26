@@ -2,15 +2,19 @@
 
 Custom theme for [Ghost](http://github.com/tryghost/ghost/).
 
-# Casper
-
-The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Casper. If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
-
 &nbsp;
 
 ![screenshot-desktop](assets/screenshot-desktop.png)
 
 &nbsp;
+
+![screenshot-mobile](assets/screenshot-mobile.png)
+
+&nbsp;
+
+# Casper
+
+The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Casper. If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
 
 # First time using a Ghost theme?
 
