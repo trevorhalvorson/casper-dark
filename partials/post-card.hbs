@@ -1,0 +1,15 @@
+<article class="post-card {{post_class}}{{#unless feature_image}} no-image{{/unless}}">
+    <div class="post-card-content">
+        <a class="post-card-content-link" href="{{url}}">
+            <header class="post-card-header">
+                {{#if primary_tag}}
+                    <span class="post-card-tags">{{primary_tag.name}}</span>
+                {{/if}}
+                <h2 class="post-card-title">{{title}}</h2>
+            </header>
+            <section class="post-card-date">
+                <p>{{date published_at format="MMMM DD, YYYY"}}</p>
+            </section>
+        </a>
+    </div>
+</article>
